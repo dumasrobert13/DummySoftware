@@ -6,6 +6,8 @@
 # 5. Added shop.html (laudato)
 # 6. Added cart.html (tecson)
 # 7. Added signin.html (mercadero)
+# The following members will be late to commit because they can't find device to borrow, we apologize for the delay of submitting :<
+# Raymong Lim, Shervon Alvi Cariño, Kyle Basqueña
 
 # Members: 
 # Robert James Dumas
