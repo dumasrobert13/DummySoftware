@@ -7,14 +7,14 @@
 # 6. Added cart.html (tecson)
 # 7. Added signin.html (mercadero)
 
-Members: 
-Robert James Dumas
-Aldwin Joseph Durias
-Francis John Endico
-Carlo Hocon
-Jonald Kyle Laudato
-Genesis Tecson
-Jahel Jenarlyn Mercadero
-Raymond Lim
-Shervon Alvi Cariño
-Kyle Basqueña
+# Members: 
+# Robert James Dumas
+# Aldwin Joseph Durias
+# Francis John Endico
+# Carlo Hocon
+# Jonald Kyle Laudato
+# Genesis Tecson
+# Jahel Jenarlyn Mercadero
+# Raymond Lim
+# Shervon Alvi Cariño
+# Kyle Basqueña
