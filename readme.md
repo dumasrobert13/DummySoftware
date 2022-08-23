@@ -7,7 +7,7 @@
 # 6. Added cart.html (tecson)
 # 7. Added signin.html (mercadero)
 # 8. Added kyle.html (basqueña)
-#
+# 9. Added settings.html (lim)
 
 #
 # Members: 
