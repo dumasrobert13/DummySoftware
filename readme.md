@@ -8,8 +8,7 @@
 # 7. Added signin.html (mercadero)
 # 8. Added kyle.html (basqueña)
 #
-# The following members will be late to commit because they can't find device to borrow, we apologize for the delay of submitting :<
-# Raymong Lim, Shervon Alvi Cariño
+
 #
 # Members: 
 # Robert James Dumas
